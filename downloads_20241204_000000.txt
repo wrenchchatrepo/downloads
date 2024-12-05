@@ -1,0 +1,57 @@
+Download Activity Report
+Generated on: 2024-12-04 00:00:00
+Query Period: 2024-11-04 to 2024-12-04 (30 days)
+==================================================
+
+Actual Download Date Range:
+First Download: 2024-11-11 23:02:00
+Last Download:  2024-12-03 23:02:22
+Date Range: 23 days
+Average Downloads per Day: 65.4
+
+Download Details by User:
+==================================================
+
+User ID: 4
+  JSON: 1213 downloads
+    First: 2024-11-11 23:02:00
+    Last:  2024-12-03 23:02:22
+
+User ID: 15
+  CSV: 1 downloads
+    First: 2024-12-03 10:16:17
+    Last:  2024-12-03 10:16:17
+
+User ID: 75
+  CSV: 1 downloads
+    First: 2024-12-01 14:00:02
+    Last:  2024-12-01 14:00:02
+
+User ID: 246
+  CSV: 1 downloads
+    First: 2024-11-25 15:16:14
+    Last:  2024-11-25 15:16:14
+
+User ID: 353
+  JSON: 287 downloads
+    First: 2024-11-12 17:41:22
+    Last:  2024-12-03 19:53:51
+
+User ID: 364
+  TXT: 1 downloads
+    First: 2024-11-21 13:19:19
+    Last:  2024-11-21 13:19:19
+
+User ID: 824
+  CSV: 1 downloads
+    First: 2024-11-27 14:40:33
+    Last:  2024-11-27 14:40:33
+
+Summary
+==================================================
+Total Downloads: 1505
+
+Downloads by File Type:
+  CSV: 4 (0.3%)
+  JSON: 1500 (99.7%)
+  TXT: 1 (0.1%)
